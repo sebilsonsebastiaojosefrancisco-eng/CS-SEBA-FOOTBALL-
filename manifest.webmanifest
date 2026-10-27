@@ -1,0 +1,10 @@
+{
+  "name": "CS SEBA FOOTBALL",
+  "short_name": "CS SEBA",
+  "description": "Futebol, estatísticas, análises e área VIP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07130f",
+  "theme_color": "#07130f",
+  "orientation": "portrait"
+}
